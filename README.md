@@ -1,7 +1,7 @@
 # CustomersDataApp
 
 - This Project was created to apply CRUD operations on a DB table for Customer Data.
-- Using .Net COre, Entity Frame work Core, angularTS and SQL Server technologies to apply reqired actions.
+- Using .Net COre, Entity Frame work Core, AngularTS and SQL Server technologies to apply reqired actions.
 - This project contains APIs for Add/Update/Delete/View data related to customers.
 - You can find database model and connection to apply required actions.
 - Inside the project you can find CustomerDB.sql to create required Database table [Customers] and stored procedure [customer_Data] and connect it to the project.
